@@ -3,6 +3,6 @@
 [Introduction](README.md)
 
 - [Features](features.md)
-- [Developer Guide](developer_guide.md)
-- [Requirements](requirements.md)
-- [Installation](installation.md)
+- [Developer Guide](dev/developer_guide.md)
+  - [Requirements](dev/requirements.md)
+  - [Installation](dev/installation.md)
