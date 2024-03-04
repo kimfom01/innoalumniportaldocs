@@ -16,3 +16,7 @@ This website involves the ability to keep up with events happening in the univer
 ## Developer guide
 
 Jump to the [developer guide](dev/developer_guide.md) if you want to build and run this project locally
+
+## Licence
+
+The innoalumniportaldocs documentation is released under the [MIT Licence](https://opensource.org/license/mit)
