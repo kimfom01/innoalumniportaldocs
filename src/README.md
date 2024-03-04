@@ -19,4 +19,4 @@ Jump to the [developer guide](dev/developer_guide.md) if you want to build and r
 
 ## Licence
 
-The innoalumniportaldocs documentation is released under the [MIT Licence](https://opensource.org/license/mit)
+The innoalumniportaldocs documentation is released under the [MIT Licence](https://github.com/TheSharpOwl/inno-alumni-portal?tab=MIT-1-ov-file#readme)
