@@ -1,37 +1,48 @@
 # Developer Guide
 
-## Requirements
+****## Contributing
+
+The project source code is hosted on github: [https://github.com/TheSharpOwl/inno-alumni-portal](https://github.com/TheSharpOwl/inno-alumni-portal)
+
+If you'd like to contribute, there are a few requirements
+
+- Python 3.9 ([link to installation guide](https://www.python.org/downloads/))
+
+- Nodejs ([link to installation guide](https://nodejs.org/en))
+
+- Docker ([link to installation guide](https://docs.docker.com/get-docker/))
+
+- Postgres ([link to installation guide](https://www.postgresql.org/download/))
+
+### Requirements
 
 - Python 3.9
 - Node 18
 - Docker
-- Posgres
+- Postgres
 
-## Frameworks and Technology
+### Frameworks and Technology
 
 - Python FastAPI
 - Next.js
 - Docker
 - PostgreSQL
 
-## Contributing
+## Installation
 
-This is a free and open source documentation. You can find the source code on [GitHub](https://github.com/kimfom01/innoalumniportaldocs) and issues and feature requests can be posted on the GitHub issue tracker. This documentation is built with rust's mdbook command line tool.
+### Getting the project
 
-If you'd like to contribute, there are a few requirements
-
-- Rust ([link to installation guide](https://www.rust-lang.org/tools/install))
+Clone the repository:
 
 ```sh
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+git clone https://github.com/TheSharpOwl/inno-alumni-portal.git
 ```
 
-- Mdbook ([link to installation guide](https://rust-lang.github.io/mdBook/guide/installation.html))
+Alternatively, download and extract the project ZIP file.
 
-```sh
-cargo install mdbook
-```
+- Follow [this guide](backend_setup.md) to setup the backend
+- Follow [this guide](frontend_setup.md) to setup the frontend
 
 ## Licence
 
-The innoalumniportaldocs documentation is released under the [MIT Licence](https://opensource.org/license/mit)
+The innoalumniportaldocs documentation is released under the [MIT Licence](https://github.com/TheSharpOwl/inno-alumni-portal?tab=MIT-1-ov-file#readme)
