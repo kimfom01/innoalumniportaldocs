@@ -1,5 +1,7 @@
 # Introduction
 
+![Welcome message](assets/image.png)
+
 Website providing services for Innopolis University Alumni
 
 ## Project Description

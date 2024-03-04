@@ -24,7 +24,7 @@ If you'd like to contribute, there are a few requirements
 ### Frameworks and Technology
 
 - Python FastAPI
-- Next.js
+- Nextjs
 - Docker
 - PostgreSQL
 
