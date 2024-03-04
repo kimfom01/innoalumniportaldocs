@@ -1,6 +1,6 @@
 # Developer Guide
 
-****## Contributing
+## Contributing
 
 The project source code is hosted on github: [https://github.com/TheSharpOwl/inno-alumni-portal](https://github.com/TheSharpOwl/inno-alumni-portal)
 
