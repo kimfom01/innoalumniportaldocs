@@ -22,4 +22,4 @@ cargo install mdbook
 
 ## Licence
 
-The innoalumniportaldocs documentation is released under the [MIT Licence](https://opensource.org/license/mit)
+The innoalumniportaldocs is released under the [MIT Licence](https://opensource.org/license/mit)
