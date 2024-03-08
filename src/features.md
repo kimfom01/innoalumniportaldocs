@@ -22,4 +22,4 @@
 
 ## Demo
 
-<video src="./assets/Alumni Portal V2 Summer EoSP (video-converter.com).mov" alt="Demo Video" controls="controls" ></video>
+<video src="assets/demo.mov" alt="Demo Video" controls="controls" ></video>
